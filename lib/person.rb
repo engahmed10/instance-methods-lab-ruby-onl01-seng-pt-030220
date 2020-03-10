@@ -9,3 +9,7 @@ class Person
  end
 
 end
+
+fido= Person.new
+fido.talk
+fido.walk
